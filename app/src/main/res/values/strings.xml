@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">betDroid</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="facebook_app_id">1005222796178043</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="open_map">Match location</string>
+    <string name="welcome">Welcome</string>
+    <string name="open_detail">Open detail</string>
+</resources>
